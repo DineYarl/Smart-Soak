@@ -15,6 +15,12 @@ This is a Flutter-based mobile application designed to control the SmartSoak irr
 - **Safety First:** An emergency stop button is available to immediately halt all system operations.
 - **Responsive UI:** The interface is designed to be intuitive and provides instant feedback for all control actions.
 
+## Downloads
+
+You can download the latest version of the app directly from the link below:
+
+- [SmartSoak v1.0.0](https://github.com/DineYarl/Smart-Soak/blob/master/app/build/app/outputs/flutter-apk/app-release.apk?raw=true)
+
 ## Getting Started
 
 ### Prerequisites

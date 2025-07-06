@@ -19,7 +19,7 @@ This is a Flutter-based mobile application designed to control the SmartSoak irr
 
 You can download the latest version of the app directly from the link below:
 
-- [SmartSoak v1.0.0](app/app-release.apk)
+- [SmartSoak v1.0.0](app-release.apk)
 
 ## Getting Started
 
